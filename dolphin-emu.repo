@@ -1,0 +1,5 @@
+[ps4]
+name=ps4-dolphin-emu
+baseurl=https://raw.githubusercontent.com/IT-mania/dolphin-emu-unstable/master/x86_64
+enabled=1
+gpgcheck=0
